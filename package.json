@@ -1,0 +1,20 @@
+{
+  "name": "inspectorgadget",
+  "version": "0.0.0",
+  "description": "Logger that can inpsect it's environment and add context to logs.",
+  "main": "./lib/logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Logging"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^7.1.1"
+  },
+  "dependencies": {
+    "stack-trace": "0.0.9"
+  }
+}
